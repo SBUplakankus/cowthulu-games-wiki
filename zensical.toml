@@ -28,6 +28,8 @@ site_author = "<your name here>"
 # documentation you should set this.
 # Read more: https://zensical.org/docs/setup/basics/#site_url
 #site_url = "https://www.example.com/"
+repo_url = "https://github.com/SBUplakankus/cowthulu-games-wiki"
+repo_name = "Wiki Repo"
 
 # The copyright notice appears in the page footer and can contain an HTML
 # fragment.
@@ -46,7 +48,8 @@ Copyright &copy; 2026 Cowthulu Games
 # Read more: https://zensical.org/docs/setup/navigation/
 nav = [
   { Home = "index.md" },
-  { Research = "research/unreal/UE5_Research.md" },
+  { Guides = "guides/guides_index.md" },
+  { Research = "research/research_index.md" },
 ]
 
 # With the "extra_css" option you can add your own CSS styling to customize
@@ -94,6 +97,7 @@ extra_css = ["stylesheets/extra.css"]
 # - https://developer.mozilla.org/en-US/docs/Glossary/Favicon
 #
 #favicon = "images/favicon.png"
+favicon = "assets/cow-solid-full.svg"
 
 # Zensical supports more than 60 different languages. This means that the
 # labels and tooltips that Zensical's templates produce are translated.
@@ -267,6 +271,7 @@ features = [
 # ----------------------------------------------------------------------------
 [project.theme.icon]
 logo = "lucide/gamepad-2"
+repo = "fontawesome/brands/github"
 
 # ----------------------------------------------------------------------------
 # In the "font" subsection you can configure the fonts used. By default, fonts
@@ -310,3 +315,7 @@ generator = false
 #[[project.extra.social]]
 #icon = "fontawesome/brands/github"
 #link = "https://github.com/user/repo"
+
+# Disable heading permalinks (the link icon on headings on hover).
+[project.markdown_extensions.toc]
+permalink = false

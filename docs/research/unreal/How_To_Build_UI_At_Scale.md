@@ -1,10 +1,11 @@
----
-icon: lucide/blocks
----
-
 # How to Build UI at Scale: Lessons from Marvel’s 'Midnight Suns' 
 > Unreal Fest Orlando 2025  
-> Watched 28th September 2026
+> Seán Burke  
+> 28th September 2026
+
+## Overview
+
+Presentation about a way you can make UI at Scale for a game released in 2022.
 
 ## Video
 

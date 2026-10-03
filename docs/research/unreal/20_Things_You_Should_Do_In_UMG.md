@@ -1,10 +1,11 @@
----
-icon: lucide/layout-dashboard
----
-
 # 20 Things You Should Be Using in Unreal Motion Graphics 
 > Unreal Fest Gold Coast 2024  
-> Watched 28th September 2026
+> Seán Burke  
+> 28th September 2026
+
+## Overview
+
+Cool Presentation with an Epic UI Developer about some tricks with Unreals Motion Graphics.
 
 ## Video
 
