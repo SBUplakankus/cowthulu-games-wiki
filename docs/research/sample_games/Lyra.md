@@ -3,6 +3,8 @@
 > Seán Burke  
 > 28th September 2026
 
+## Overview
+
 Released in 2022 but updated with each new release, Lyra is an online multiplayer FPS game developed to showcase how they believe you should structure large projects.
 It is made for industry professionals and studios.
 
