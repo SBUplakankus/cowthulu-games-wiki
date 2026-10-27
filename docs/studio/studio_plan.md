@@ -73,9 +73,5 @@ Vertical slice:
 |:-|:-|:-|:-|:-|:-|
 
 ## Pipeline
-Version control: GitHub / Diversion
+Version control: Diversion
 Unticked items moved to Sprint 3:
-
-## Sprint 3
-Sprint goal:
-Backlog: linked on the Scrum board.
