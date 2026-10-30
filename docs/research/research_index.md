@@ -33,3 +33,9 @@ icon: lucide/flask-conical
 | [20 Things You Should Be Using in UMG](unreal/20_Things_You_Should_Do_In_UMG.md) | Overview of some of the key features brought up |
 | [How to Build UI at Scale](unreal/How_To_Build_UI_At_Scale.md) | Some cool notes but over scaled for a one year project |
 
+## Game Input Research
+
+| Title | Description |
+| --- | --- |
+| [Gesture Controls](controls/gesture_controls.md) | An overview on Common UI with links to documentation |
+
