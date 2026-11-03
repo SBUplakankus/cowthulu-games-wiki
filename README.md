@@ -16,7 +16,7 @@ This Wiki contains:
 
 | Member | Major role | Minor role |
 |:-|:-|:-|
-| **Fuhad** | Scrum Master & Design Lead | Gameplay, Level Design & Tech Art |
+| **Fuhad** | Scrum Master/Producer & Design Lead | Gameplay Programmer, Level Design & Tech Art |
 | **Jake** | QA, Playtest & Audio Lead | UX, Partner Liason |
 | **Seán** | Technical Lead | UI, AI & Documentation |
 | **Nikita** | Art Lead | Animator, Lighting & Materials |
