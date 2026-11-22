@@ -13,11 +13,13 @@ It is mandatory to follow these guides. UE5 comes with hundreds of built in clas
 The core rule is: `[AssetTypePrefix]_TD_[AssetName]_[OptionalVariant]`
 
 **Some examples:**
+
 - `BP_TD_PlayerCharacter`
 - `WBP_TD_MainMenu`
 - `BP_TD_Obstacle_Vines`
 
 **General rules:**
+
 - Use PascalCase for descriptive names: PlayerCharacter, MainMenu.
 - Separate words with capitals; do not use spaces or hyphens.
 - Use clear, descriptive names. Avoid names such as NewAssetBob, Test2 or Final_Final_FinalForReal.

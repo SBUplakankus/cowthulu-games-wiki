@@ -18,20 +18,20 @@ The Game will have two primary branches at all times.
 | `Dev`  | Main development branch. All new features, fixes and content are merged into here. |
 
 **Rules:**
+
 - Never commit directly to Main or Dev.
 - All development work must take place on a separate branch.
 - Main should always remain in a stable, working state.
 - Dev is the starting point for all normal development.
 
 ### Branch Workflow
-```
-Main
- └── Dev
-      ├── feature/player-movement
-      ├── fix/character-collision
-      ├── content/forest-environment
-      └── refactor/interaction-system
-```
+
+- `Main`
+    - `Dev`
+        - `feature/player-movement`
+        - `fix/character-collision`
+        - `content/forest-environment`
+        - `refactor/interaction-system`
 
 I will make it so I am the only one able to touch main or dev. 
 
@@ -55,6 +55,7 @@ These names should cover everything you would need, if you feel something is mis
 | `test/`     | Experimental changes and testing       | `test/new-movement-system`      |
 
 **Rules:**
+
 - Always create development branches from the latest Dev.
 - Use the appropriate branch type.
 - Keep names short and descriptive.
@@ -64,6 +65,7 @@ These names should cover everything you would need, if you feel something is mis
 ### Diversion Usage
 
 **Creating a Branch in Diversion:**
+
 1. Switch to the Dev branch.
 2. Ensure your workspace is up to date.
 3. Open the branch dropdown and select New Branch.
@@ -82,6 +84,7 @@ You might think this is dumb and annoying at first, but when we hit a game break
 Doing this properly is the difference between spending hours / days searching through months of work from 4 different people versus taking a couple minutes to scan through the commit history. 
 
 **Before committing:**
+
 - Make sure you are working on the correct branch.
 - Only include changes relevant to the task.
 - Ensure your changes are functioning as expected.
@@ -99,6 +102,7 @@ Doing this properly is the difference between spending hours / days searching th
 | `chore`    | Maintenance and configuration | `chore(settings): update project settings`            |
 
 **Rules:**
+
 - Use lowercase for commit types and descriptions.
 - Keep messages clear and concise.
 - Describe what the commit changes.
@@ -114,6 +118,7 @@ I will leave you feedback like this if needed: [Pull Request Review](pr_review.m
 Use Diversion's Reviews feature to submit changes for review.
 
 **When creating a Review:**
+
 - Select Dev as the base branch.
 - Select your development branch as the branch being reviewed.
 - Provide a meaningful title and description.
@@ -121,6 +126,7 @@ Use Diversion's Reviews feature to submit changes for review.
 Once approved, the changes can be merged into Dev.
 
 **Rules:**
+
 - Do not merge unfinished or untested work.
 - Address requested changes before merging.
 - Ensure the relevant reviewers have approved the changes.
