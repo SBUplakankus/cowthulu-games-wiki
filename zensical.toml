@@ -49,7 +49,11 @@ Copyright &copy; 2026 Cowthulu Games
 nav = [
   { Home = "index.md" },
   { Game = "dancer/overview.md" },
-  { Guides = "guides/guides_index.md" },
+  { Guides = [
+  	"guides/guides_index.md",
+  	"guides/asset_naming.md", 
+  	"guides/version_control.md"
+  	]},
   { Research = "research/research_index.md" },
 ]
 # With the "extra_css" option you can add your own CSS styling to customize
