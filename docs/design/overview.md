@@ -1,8 +1,4 @@
-# The Dancer - Technical Design
-
-> Seán Burke
-> 
-> 30th October 2026
+# Technical Overview
 
 ## About
 

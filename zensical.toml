@@ -54,6 +54,10 @@ nav = [
   	"guides/asset_naming.md", 
   	"guides/version_control.md"
   	]},
+  { Design = [
+    "design/overview.md",
+    "design/class_structure.md"
+  ]},
   { Research = "research/research_index.md" },
 ]
 # With the "extra_css" option you can add your own CSS styling to customize
