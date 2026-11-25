@@ -11,10 +11,9 @@ Sections will be refined as development progress but for now this page contains 
 
 Core classes that are a main part of the Unreal Gameplay Framework we override.
 
-| Name              | Extends            | Function                                                    | Blueprints               |
-| ----------------- | ------------------ | ----------------------------------------------------------- | ------------------------ |
-| `TD_MenuGameMode` | `PlayerController` | Hosts Input Actions                                         | `BP_TD_PlayerController` |
-| `TD_PlayerState`  | `PlayerState`      | Hots the players Ability System Component and Attribute Set | `BP_TD_PLayerState`      |
+| Name              | Extends        | Function       | Blueprints           |
+| ----------------- | -------------- | -------------- | -------------------- |
+| `TD_MenuGameMode` | `GameModeBase` | Menu Game Mode | `BP_TD_MenuGameMode` |
 
 ## Subsystems
 
