@@ -1,3 +1,7 @@
+---
+icon: lucide/list-tree
+---
+
 # Class Structure
 
 ## Overview

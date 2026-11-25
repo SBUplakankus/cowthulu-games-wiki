@@ -1,3 +1,7 @@
+---
+icon: lucide/gamepad
+---
+
 # Parot
 
 > Seán Burke  

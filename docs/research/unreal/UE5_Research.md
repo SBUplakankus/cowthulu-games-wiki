@@ -1,3 +1,7 @@
+---
+icon: lucide/library
+---
+
 # Unreal Engine 5 Programming Research
 > Seán Burke  
 > 27th September 2026

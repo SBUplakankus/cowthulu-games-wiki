@@ -1,3 +1,7 @@
+---
+icon: lucide/tag
+---
+
 # Naming Conventions
 
 ## Overview

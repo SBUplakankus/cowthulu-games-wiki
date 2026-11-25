@@ -1,3 +1,7 @@
+---
+icon: lucide/crosshair
+---
+
 # Lyra
 
 > Seán Burke  

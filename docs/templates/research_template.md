@@ -1,3 +1,7 @@
+---
+icon: lucide/notebook-pen
+---
+
 # Title Here
 
 > Author Name  

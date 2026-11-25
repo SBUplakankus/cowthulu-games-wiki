@@ -1,3 +1,7 @@
+---
+icon: lucide/handshake
+---
+
 # Working Agreement
 
 Version: 1.0 | Agreed: 9th October 2026 | Next review: Sprint RETRO_NUMBER retrospective

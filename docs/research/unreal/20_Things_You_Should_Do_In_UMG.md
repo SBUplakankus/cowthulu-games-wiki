@@ -1,3 +1,7 @@
+---
+icon: lucide/sparkles
+---
+
 # 20 Things You Should Be Using in Unreal Motion Graphics 
 > Unreal Fest Gold Coast 2024  
 > Seán Burke  

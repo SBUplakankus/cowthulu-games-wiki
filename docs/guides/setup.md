@@ -1,3 +1,7 @@
+---
+icon: lucide/sliders-horizontal
+---
+
 # Unreal Engine 5 Setup Notes
 
 > Seán Burke  

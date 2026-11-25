@@ -1,3 +1,7 @@
+---
+icon: lucide/scale
+---
+
 # The Dancer - Legal and Ethical Considerations
 
 > Seán Burke

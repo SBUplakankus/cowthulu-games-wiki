@@ -1,3 +1,7 @@
+---
+icon: lucide/drafting-compass
+---
+
 # Technical Overview
 
 ## About

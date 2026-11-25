@@ -1,3 +1,7 @@
+---
+icon: lucide/hand
+---
+
 # Potential Gesture Controls
 
 > Seán Burke

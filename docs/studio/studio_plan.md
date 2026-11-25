@@ -1,3 +1,7 @@
+---
+icon: lucide/users
+---
+
 # Studio Plan - Cowthulu Games
 
 ## Studio

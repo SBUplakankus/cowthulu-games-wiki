@@ -1,3 +1,7 @@
+---
+icon: lucide/git-graph
+---
+
 # Version Control
 
 ## Overview

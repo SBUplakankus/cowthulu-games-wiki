@@ -1,3 +1,7 @@
+---
+icon: lucide/layers
+---
+
 # How to Build UI at Scale: Lessons from Marvel’s 'Midnight Suns' 
 > Unreal Fest Orlando 2025  
 > Seán Burke  

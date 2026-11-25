@@ -1,3 +1,7 @@
+---
+icon: lucide/clapperboard
+---
+
 # Talk Title Here
 
 > Event Name Year  

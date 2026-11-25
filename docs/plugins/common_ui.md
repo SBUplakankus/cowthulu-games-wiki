@@ -1,3 +1,7 @@
+---
+icon: lucide/toy-brick
+---
+
 # Common UI Overview
 
 > Seán Burke  

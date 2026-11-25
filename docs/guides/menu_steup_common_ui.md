@@ -1,3 +1,7 @@
+---
+icon: lucide/layout-template
+---
+
 # Commmon UI Setup Guide
 
 > Seán Burke
