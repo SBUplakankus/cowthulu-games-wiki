@@ -94,7 +94,20 @@ Doing this properly is the difference between spending hours / days searching th
 - Ensure your changes are functioning as expected.
 - Write a meaningful commit message.
 
-### Commit Naming Conventions
+### Creating a Branch
+
+1. In the diversion desktop app, make sure you are in `Cowthulu Games > the-dancer`.
+2. In the dropdown menu at the top left select `dev`.
+3. With `dev` selected click on the three dots icon beside it in the drop down.
+4. Select `Create Branch from here`.
+5. Name it accordingly.
+
+
+| ![alt](img/paste_1795643142330.png) |
+| ----------------------------------- |
+| Drop Down                           |
+
+### Commit Message Naming Conventions
 
 | Type       | Purpose                       | Example                                               |
 | ---------- | ----------------------------- | ----------------------------------------------------- |
@@ -112,19 +125,6 @@ Doing this properly is the difference between spending hours / days searching th
 - Describe what the commit changes.
 - Avoid vague messages such as changes, update, stuff or fixed things.
 - Keep commits focused on logical changes.
-
-### Creating a Branch
-
-In the diversion desktop app, make sure you are in `Cowthulu Games > the-dancer`.
-In the dropdown menu at the top left select `dev`.
-With `dev` selected click on the three dots icon beside it in the drop down.
-Select `Create Branch from here`.
-Name it accordingly.
-
-
-| ![alt](img/paste_1795643142330.png) |
-| ----------------------------------- |
-| Drop Down                           |
 
 ## Reviews and Merging
 

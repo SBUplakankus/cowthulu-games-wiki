@@ -56,7 +56,8 @@ nav = [
   	]},
   { Design = [
     "design/overview.md",
-    "design/class_structure.md"
+    "design/class_structure.md",
+    "design/game_data.md"
   ]},
   { Research = "research/research_index.md" },
 ]
