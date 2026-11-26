@@ -25,6 +25,7 @@ This database is for all of the Irish Sign Language elements of our game from wh
 | `string: UnlockEvent` | Name of the event sent out to unlock it  |
 
 **EntryTypeEnum:** `Dance`, `Pop-Up`, `Info`
+
 **CategoryEnum:** `Dances`, `Animals`, `Environment`, `General`
 
 ### ISL Data Tables
