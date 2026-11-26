@@ -50,7 +50,6 @@ nav = [
   { Home = "index.md" },
   { Game = "dancer/overview.md" },
   { Guides = [
-  	"guides/guides_index.md",
   	"guides/asset_naming.md", 
   	"guides/version_control.md"
   	]},

@@ -20,5 +20,4 @@ We are currently developing the game and will soon be entering the **Pre-Product
 | Document | What is it? |
 | --- | --- |
 | [Legal & Ethical](legal_ethical.md) | An overview of our Legal & Data Protection Policies alongside our Ethical Practices |
-| [Technical Design](tech_design.md) | An overview on the technical details and design |
 
